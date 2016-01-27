@@ -1,0 +1,59 @@
+package lellson.wizardingtools.blocks.ore;
+
+import java.util.Random;
+
+import lellson.wizardingtools.items.WizardingItems;
+import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+import net.minecraft.entity.item.EntityXPOrb;
+import net.minecraft.init.Blocks;
+import net.minecraft.init.Items;
+import net.minecraft.item.Item;
+import net.minecraft.world.IBlockAccess;
+import net.minecraft.world.World;
+
+public class BlockRubyOre extends Block {
+
+	public BlockRubyOre(Material material) {
+		super(material);
+		this.setResistance(5);
+		this.setHardness(3.0F);
+		this.setHarvestLevel("pickaxe", 2);
+		this.setStepSound(soundTypeStone);
+	}
+	
+	public Item getItemDropped(int damage, Random random, int fortune)
+    {
+        return WizardingItems.itemRuby;
+    }
+	
+	public int getExpDrop(IBlockAccess block, int meta, int fortune)
+	{
+	return 5;
+	}
+
+    public int quantityDropped(Random random)
+    {
+        return 1;
+    }
+
+    public int quantityDroppedWithBonus(int fortune, Random random)
+    {
+        if (fortune > 0)
+        {
+            int i = random.nextInt(fortune + 2) - 1;
+
+            if (i < 0)
+            {
+                i = 0;
+            }
+
+            return quantityDropped(random) * (i + 1);
+        }
+        else
+        {
+            return quantityDropped(random);
+        }
+    }
+    
+}

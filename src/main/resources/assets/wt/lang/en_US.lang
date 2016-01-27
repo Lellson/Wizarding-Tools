@@ -1,0 +1,145 @@
+item.ItemTitaniumIngot.name=§bTitanium Ingot
+item.ItemEnhancedTitanIngot.name=§bEnhanced Titanium Ingot
+item.ItemRuby.name=§cRuby
+item.ItemRubyBoP.name=§cGarnet
+item.ItemSapphire.name=§9Sapphire
+item.ItemSapphireBoP.name=§9Aquamarine
+item.ItemTopaz.name=§eTopaz
+item.ItemTopazBoP.name=§eCitrine
+item.ItemAmethyst.name=§dAmethyst
+item.ItemAmethystBoP.name=§dKunzite
+item.ItemOpal.name=§6Opal
+item.ItemMalachite.name=§aMalachite
+item.ItemMalachiteBoP.name=§aBeryl
+
+item.ItemTitaniumDust.name=§bTitanium Dust
+item.ItemEnhancedTitanDust.name=§bEnhanced Titanium Dust
+item.ItemCrystalDust.name=Crystal Dust
+item.ItemRubyDust.name=§cRuby Dust
+item.ItemRubyDustBoP.name=§cGarnet Dust
+item.ItemSapphireDust.name=§9Sapphire Dust
+item.ItemSapphireDustBoP.name=§9Aquamarine Dust
+item.ItemTopazDust.name=§eTopaz Dust
+item.ItemTopazDustBoP.name=§eCitrine Dust
+item.ItemAmethystDust.name=§dAmethyst Dust
+item.ItemAmethystDustBoP.name=§dKunzite Dust
+item.ItemOpalDust.name=§6Opal Dust
+item.ItemMalachiteDust.name=§aMalachite Dust
+item.ItemMalachiteDustBoP.name=§aBeryl Dust
+
+item.ItemRedTitanAlloy.name=§cRed Titan Alloy
+item.ItemBlueTitanAlloy.name=§9Blue Titan Alloy
+item.ItemYellowTitanAlloy.name=§eYellow Titan Alloy
+item.ItemPurpleTitanAlloy.name=§dPurple Titan Alloy
+item.ItemOrangeTitanAlloy.name=§6Orange Titan Alloy
+item.ItemGreenTitanAlloy.name=§aGreen Titan Alloy
+
+item.ItemRedTitanMixture.name=§cRed Titan Mixture
+item.ItemBlueTitanMixture.name=§9Blue Titan Mixture
+item.ItemYellowTitanMixture.name=§eYellow Titan Mixture
+item.ItemPurpleTitanMixture.name=§dPurple Titan Mixture
+item.ItemOrangeTitanMixture.name=§6Orange Titan Mixture
+item.ItemGreenTitanMixture.name=§aGreen Titan Mixture
+
+item.ItemTitanSword.name=§bTitan Sword
+item.ItemTitanPickaxe.name=§bTitan Pickaxe
+item.ItemTitanAxe.name=§bTitan Axe
+item.ItemTitanShovel.name=§bTitan Shovel
+item.ItemTitanHoe.name=§bTitan Hoe
+
+item.ItemTitaniumHelmet.name=§bTitan Helmet
+item.ItemTitaniumChestplate.name=§bTitan Chestplate
+item.ItemTitaniumLeggings.name=§bTitan Leggings
+item.ItemTitaniumBoots.name=§bTitan Boots
+
+item.ItemEnhancedTitanSword.name=§bEnhanced Titan Sword
+item.ItemEnhancedTitanPickaxe.name=§bEnhanced Titan Pickaxe
+item.ItemEnhancedTitanAxe.name=§bEnhanced Titan Axe
+item.ItemEnhancedTitanShovel.name=§bEnhanced Titan Shovel
+item.ItemEnhancedTitanHoe.name=§bEnhanced Titan Hoe
+
+item.ItemEnhancedTitaniumHelmet.name=§bEnhanced Titan Helmet
+item.ItemEnhancedTitaniumChestplate.name=§bEnhanced Titan Chestplate
+item.ItemEnhancedTitaniumLeggings.name=§bEnhanced Titan Leggings
+item.ItemEnhancedTitaniumBoots.name=§bEnhanced Titan Boots
+
+item.ItemTitaniumRod.name=§bTitanium Rod
+item.ItemTitanString.name=§bTitan String
+item.ItemTitaniumNugget.name=§bTitanium Nugget
+item.ItemEnhancedTitaniumNugget.name=§bEnhanced Titanium Nugget
+item.ItemCrushingBlade.name=§bCrushing Blade
+
+item.ItemTitanRing.name=§bTitan Ring
+item.ItemTitanBelt.name=§bTitan Belt
+item.ItemTitanAmulet.name=§bTitan Amulet
+
+item.ItemBeltOfTheWind.name=§bBelt Of The Wind
+item.ItemRingOfAntiVenom.name=§aRing Of Anti Venom
+item.ItemRingOfAntiWither.name=§8Ring Of Anti Wither
+item.ItemRingOfAntiWeakness.name=§cRing Of Anti Weakness
+item.ItemRingOfAntiFreeze.name=§7Ring Of Anti Slowdown
+item.ItemRingofAntiHunger.name=§2Ring Of Anti Hunger
+item.ItemRingOfAntiBlindness.name=§5Ring Of Anti Blindness
+item.ItemRingOfPotionProtection.name=§eRing Of Potion Protection
+item.ItemBeltOfTheSteelFeet.name=§bBelt Of Mobility
+item.ItemBeltOfTheSteelwing.name=§bBelt Of Agility
+item.ItemLifeforcePendant.name=§cLifeforce Pendant
+item.ItemEnhancedLifeforcePendant.name=§eEnhanced Lifeforce Pendant
+item.ItemRingOfHeatResistance.name=§4Ring Of Heat Resistance
+item.ItemRingOfWaterBreathing.name=§1Ring Of Water Breathing
+item.ItemRingOfTheElements.name=§5Ring Of Elemental Power
+item.ItemBeltOfWrath.name=§cBelt Of Wrath
+item.ItemBeltOfMetalSkin.name=§7Belt Of The Metal Skin
+item.ItemRingOfCaving.name=§2Ring Of Caving
+item.ItemRingOfDarkVision.name=§1Ring Of Dark Vision
+item.ItemRingOfDigging.name=§6Ring Of Digging
+item.ItemAmuletOfLevitation.name=§dAmulet Of Levitation
+item.ItemAmuletOfReborn.name=§aAmulet Of Reborn
+item.ItemRingOfRegeneration.name=§cRing Of Regeneration
+item.ItemBeltOfEnder.name=§dEnderman's Sash
+item.ItemOPRing.name=§eRing That Rules Them All
+
+item.ItemLightSaberR.name=§cLightsaber
+item.ItemLightSaberB.name=§9Lightsaber
+item.ItemLightSaberY.name=§eLightsaber
+item.ItemLightSaberP.name=§dLightsaber
+item.ItemLightSaberO.name=§6Lightsaber
+item.ItemLightSaberG.name=§aLightsaber
+
+item.ItemLaserGun.name=§cLaser Gun
+item.ItemLaserProjectile.name=§cLaser Projectile
+
+item.ItemRailGun.name=§bRail Gun
+item.ItemRailProjectile.name=§bTitan Projectile
+
+item.ItemWandOfNature.name=§aStaff Of Growth
+
+tile.BlockTitaniumOre.name=§bTitanium Ore
+tile.BlockRubyOre.name=§cRuby Ore
+tile.BlockRubyOreBoP.name=§cGarnet Ore
+tile.BlockSapphireOre.name=§9Sapphire Ore
+tile.BlockSapphireOreBoP.name=§9Aquamarine Ore
+tile.BlockTopazOre.name=§eTopaz Ore
+tile.BlockAmethystOre.name=§dAmethyst Ore
+tile.BlockTopazOreBoP.name=§eCitrine Ore
+tile.BlockAmethystOreBoP.name=§dKunzite Ore
+tile.BlockOpalOre.name=§6Opal Ore
+tile.BlockMalachiteOre.name=§aMalachite Ore
+tile.BlockMalachiteOreBoP.name=§aBeryl Ore
+
+tile.BlockTitaniumBlock.name=§bTitanium Block
+tile.BlockRubyBlock.name=§cRuby Block
+tile.BlockRubyBlockBoP.name=§cGarnet Block
+tile.BlockSapphireBlock.name=§9Sapphire Block
+tile.BlockSapphireBlockBoP.name=§9Aquamarine Block
+tile.BlockTopazBlock.name=§eTopaz Block
+tile.BlockAmethystBlock.name=§dAmethyst Block
+tile.BlockTopazBlockBoP.name=§eCitrine Block
+tile.BlockAmethystBlockBoP.name=§dKunzite Block
+tile.BlockOpalBlock.name=§6Opal Block
+tile.BlockMalachiteBlock.name=§aMalachite Block
+tile.BlockMalachiteBlockBoP.name=§aBeryl Block
+
+tile.BlockTitanCrusher.name=§bTitan Crusher
+
+itemGroup.tabWizardingTools=Wizarding Tools

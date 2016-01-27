@@ -1,0 +1,18 @@
+[
+{
+  "modid": "wizardingtools",
+  "name": "Wizarding Tools",
+  "description": "Mod that adds Ores and Artifacts into the game",
+  "version": "1.0.5",
+  "mcversion": "1.7.10",
+  "url": "http://minecraft.curseforge.com/mc-mods/236032-wizarding-tools",
+  "updateUrl": "",
+  "authorList": ["Lellson"],
+  "credits": "The Forge and FML guys",
+  "logoFile": "",
+  "screenshots": [],
+  "requiredMods": [ "Forge", "Baubles" ],
+  "dependencies": ["Baubles"],
+  "useDependencyInformation": true
+}
+]

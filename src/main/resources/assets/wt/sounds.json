@@ -1,0 +1,37 @@
+{  
+   "lasergun":
+    {
+        "category": "player",
+        "sounds":
+        [
+            "lasergun"
+        ]
+    },
+	
+	"railgun":
+    {
+        "category": "player",
+        "sounds":
+        [
+            "railgun"
+        ]
+    },
+	
+	"railgun2":
+    {
+        "category": "player",
+        "sounds":
+        [
+            "railgun2"
+        ]
+    },
+	
+	"lightsaber":
+    {
+        "category": "player",
+        "sounds":
+        [
+            "lightsaber"
+        ]
+    }
+}
